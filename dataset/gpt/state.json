@@ -1,0 +1,20 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "06336abae9fd0a8a",
+  "_format_columns": [
+    "body",
+    "communityName",
+    "createdAt",
+    "numberOfreplies",
+    "upVotes",
+    "writing"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}

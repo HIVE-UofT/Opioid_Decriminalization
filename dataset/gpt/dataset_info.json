@@ -1,0 +1,35 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "body": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "communityName": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "createdAt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "numberOfreplies": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "upVotes": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "writing": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
