@@ -1,6 +1,8 @@
 # Detecting Misconception Surges in Opioid Policy: A Zero-Shot LLM Analysis of British Columbia's Decriminalization Pilot
 
-**Authors:** Sepehr Harfi Moridani, Marwa Sharifi, Chan Pang Yang, Konrad Samsel, Christoffer Dharma, Mohammad Noaeen, and Zahra Shakeri* *Institute of Health Policy, Management and Evaluation, Dalla Lana School of Public Health, University of Toronto*
+**Authors:** Sepehr Harfi Moridani, Marwa Sharifi, Chan Pang Yang, Konrad Samsel, Christoffer Dharma, Mohammad Noaeen, and Zahra Shakeri<br>*Institute of Health Policy, Management and Evaluation, Dalla Lana School of Public Health, University of Toronto*
+
+![Thematic Label Distribution and Co-occurrence Analysis](chords.jpg)
 
 ## Abstract
 
