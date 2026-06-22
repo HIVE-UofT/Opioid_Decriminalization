@@ -1,0 +1,26 @@
+Diagnosis_1,Diagnosis_2,freq
+Label 1,Label 1,4619
+Label 1,Label 2,1078
+Label 1,Label 3,1189
+Label 1,Label 4,2714
+Label 1,Label 5,0
+Label 2,Label 1,0
+Label 2,Label 2,1990
+Label 2,Label 3,453
+Label 2,Label 4,866
+Label 2,Label 5,0
+Label 3,Label 1,0
+Label 3,Label 2,0
+Label 3,Label 3,2943
+Label 3,Label 4,1260
+Label 3,Label 5,0
+Label 4,Label 1,0
+Label 4,Label 2,0
+Label 4,Label 3,0
+Label 4,Label 4,4856
+Label 4,Label 5,0
+Label 5,Label 1,0
+Label 5,Label 2,0
+Label 5,Label 3,0
+Label 5,Label 4,0
+Label 5,Label 5,4673
